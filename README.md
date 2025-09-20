@@ -4,7 +4,7 @@ A modern React application for browsing and managing your favorite movies using 
 
 ## ✨ Features
 
-- 🎬 Browse popular movies from TMDb
+- 🎬 Browse popular mov from TMDb
 - 🔍 Search for movies with real-time results
 - ❤️ Add/remove movies to/from favorites
 - 📱 Fully responsive design (mobile, tablet, desktop)
@@ -26,7 +26,7 @@ A modern React application for browsing and managing your favorite movies using 
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd movielist
+   cd MovieVerse
    ```
 
 2. **Install dependencies**
