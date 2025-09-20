@@ -6,7 +6,7 @@ function Footer() {
       <div className="max-w-6xl mx-auto px-8">
         <p className="mb-4 text-sm">© 2024 MovieList. All rights reserved.</p>
         <div className="flex justify-center gap-8 flex-wrap">
-          <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors text-sm">GitHub</a>
+          <a href="https://github.com/MAHAMMAD-INSAF/MovieVerse" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors text-sm">GitHub</a>
           <a href="https://www.themoviedb.org/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors text-sm">TMDb</a>
           <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors text-sm">React</a>
         </div>
